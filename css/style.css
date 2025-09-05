@@ -113,6 +113,9 @@
     .gallery-item { border-radius: 8px; }
   }
   
+.button-regresar:active{
+  background-color: #ffffff;
+}
   
   
   
